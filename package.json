@@ -1,0 +1,23 @@
+{
+  "name": "rainbowkit-next-tsx",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@rainbow-me/rainbowkit": "^0.8.0",
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.9",
+    "ethers": "^5.7.2",
+    "next": "13.0.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "4.9.3",
+    "wagmi": "^0.8.6"
+  }
+}
